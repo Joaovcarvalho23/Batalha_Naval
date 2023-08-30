@@ -1,2 +1,2 @@
 # Batalha_Naval
-Jogo batalha naval em C#
+Jogo batalha naval em C
